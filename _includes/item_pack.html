@@ -1,0 +1,9 @@
+                    {% assign pack = include.item %}
+                    {% assign data_path = site.baseurl | append: "data/" | append: pack.fragment %}
+                    <div class="banner">
+                        <a href="{{ pack.fragment }}"><img src="{{ data_path }}/pack/_banner.png" alt="{{ pack.title }}" /></a>
+                    </div>
+                    <div class="description">
+                        <h4><a href="{{ pack.fragment }}">{{ pack.title }}</a></h4>
+                        <p>{{ pack.description.short }}</p>
+                    </div>

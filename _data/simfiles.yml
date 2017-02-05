@@ -1,0 +1,1482 @@
+packs:
+
+    - title: I Have No Feet and I Must Stream
+      released: 2016-01-01
+      group: "Stamina Packs"
+      fragment: ihavenofeet
+      description:
+        short: >
+            20 song stamina pack.
+            all charts have fewer than 2500 steps — the easy counterpart to the You're Streaming series.
+        full: >
+            I Have No Feet And I Must Stream is a stamina pack featuring 20 fully-charted songs.
+            As the easy counterpart to the You're Streaming series, all charts have fewer than 2500 steps.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit, DX]
+      songs:
+        - title: Ascension to Heaven
+          artist: xi
+          bpm: 200
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16}
+        - title: Caelumize
+          artist: void
+          bpm: 175
+          charts: {SN: 2, SE: 11, SM: 12, SH: 13, SX: 14}
+          fragment: Caelumize [Groundbreaking 2013]
+        - title: Cloud Nine
+          artist: Grant Bowtie
+          bpm: 160
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: Drift
+          artist: Metrik
+          bpm: 174
+          charts: {SN: 1, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Feeling Stronger (High Maintenance Remix)
+          artist: Muzzy feat. Charlotte Colley
+          bpm: 175
+          charts: {SN: 1, SE: 12, SM: 13, SH: 14, SX: 15}
+          fragment: Feeling Stronger (Remix)
+        - title: Follow The Light
+          artist: Sub Focus feat. TC
+          bpm: 174
+          charts: {SN: 1, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Freefall VIP
+          artist: Metrik feat. Reija Lee
+          bpm: 174
+          charts: {SN: 1, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Good Bye, Blue Ogre (gdbg edit)
+          artist: anubasu-anubasu vs Est
+          bpm: 144
+          charts: {SN: 1, SE: 11, SM: 12, SH: 12, SX: 13, S-Edit: 15}
+          chart-descriptions: {S-Edit: Crossovers}
+        - title: Homebound
+          artist: Feint
+          bpm: 174
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: Hysteria
+          artist: Mr Fijiwiji & Direct
+          bpm: 128
+          charts: {SN: 1, SE: 9, SM: 10, SH: 11, SX: 12}
+        - title: Livin' La Vida Loca
+          artist: CJ CREW feat. GIORGIO
+          bpm: 198
+          charts: {SN: 2, SE: 12, SM: 13, SH: 15, SX: 16, S-Edit: 17}
+          chart-descriptions: {S-Edit: MUY LOCA}
+        - title: Load Rocket (Gridlok Remix)
+          artist: Computer Club
+          bpm: 175
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+          fragment: Load Rocket (Remix)
+        - title: Rainbow Road
+          artist: nanobii
+          bpm: 170
+          charts: {SN: 1, SE: 10, SM: 11, SH: 12, SX: 13}
+        - title: Reset
+          artist: Rchetype
+          bpm: 178
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: That Missing Week
+          artist: The Flashbulb
+          bpm: 177
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: The Phantom
+          artist: Muzzy feat. High Maintenance
+          bpm: 175
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: The Words I Never Said in D&B
+          artist: Mage feat. Skylar Grey
+          bpm: 172
+          charts: {SN: 1, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Turn Up (The Music)
+          artist: Camo & Krooked
+          bpm: 175
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14, DX: 15}
+        - title: Unfolding
+          artist: Etherwood
+          bpm: 165
+          charts: {SN: 1, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: You & Me
+          artist: Laszlo x WRLD
+          bpm: 150
+          charts: {SN: 1, SE: 9, SM: 10, SH: 11, SX: 12}
+
+    - title: Sweet Arrows And Hella Steps Vol. 3
+      released: 2015-04-20
+      group: "The Reject Pile"
+      fragment: sweetarrows/3
+      description:
+        short: >
+            a collection of simfile rejects from may 2013 to april 2015.
+            play at your own risk.
+        full: >
+            A collection of simfile rejects from May 2013 to April 2015.
+            Most of the charts are alright, some are complete jokes and/or dumpstreams.
+            Graphics may be in mixed dimensions.
+            Play at your own risk.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit, DX]
+      hide_banners: true
+      songs:
+        - title: All The Things She Said Nightcore
+          artist: t.A.T.u. / DJ Gollum feat. Scarlet
+          bpm: 170
+          charts: {SX: 13}
+        - title: Angel Of Darkness Nightcore
+          artist: Alex C. feat. Yasmin K.
+          bpm: 175
+          charts: {SX: 13}
+        - title: Arch0wl [hard mix]
+          artist: DJ Silk Drop Mooney
+          bpm: 140
+          charts: {SM: 12, SH: 15, SX: 16, S-Edit: 12}
+          chart-descriptions: {S-Edit: Omegix}
+        - title: Bring Me To Life (Remix) Nightcore
+          artist: Evanescence
+          bpm: 173
+          charts: {SX: 13}
+        - title: Canopy on the Planet
+          artist: sta
+          bpm: 148
+          charts: {SX: 9}
+        - title: Catanoph
+          artist: An
+          bpm: 191
+          charts: {SX: 12}
+        - title: Commuting
+          artist: The Queenstons
+          bpm: 180
+          charts: {SX: 15}
+        - title: Crazy Baby Nightcore
+          artist: Fantasy Project
+          bpm: 168
+          charts: {SX: 14}
+        - title: Dam Dadi Doo Nightcore
+          artist: Fantasy Project & N.D.A.
+          bpm: 173
+          charts: {SX: 12}
+        - title: Dirty Vibe
+          artist: Skrillex feat. Diplo, G-Dragon & CL
+          bpm: 160
+          charts: {SX: 14}
+        - title: Emotive
+          artist: 501
+          bpm: 174
+          charts: {SX: 10, S-Edit: 16}
+          chart-descriptions: {S-Edit: uh}
+        - title: Flight of the Bumblebee [Cypress Dubstep Edit]
+          artist: Nikolai Rimsky-Korsakov
+          bpm: 160
+          charts: {SX: 12}
+        - title: Forever Gamer Nightcore
+          artist: SkyMarshall Arts
+          bpm: 155
+          charts: {SX: 12}
+        - title: Forever Young Nightcore
+          artist: Tune Up!
+          bpm: 177
+          charts: {SX: 14}
+        - title: Frohlich Landmann (Pleasant Farmer)
+          artist: Jea
+          bpm: 205
+          charts: {SE: 2, SX: 18}
+        - title: Hanging On (Sound Remedy Remix)
+          artist: Ellie Goulding
+          bpm: 140
+          charts: {SX: 9}
+        - title: 茅蜩モラトリアム
+          artist: 天月-あまつき
+          bpm: 94
+          charts: {DX: 11}
+        - title: Jehovah's YaHVeH
+          artist: Demetori
+          bpm: 220
+          charts: {SM: 17, SH: 18, SX: 19, S-Edit: 17}
+          chart-descriptions: {S-Edit: Arvin}
+        - title: Johny Johny Yes Papa
+          artist: CyberVillageSolution
+          bpm: 114
+          charts: {SH: 9, SX: 15}
+        - title: Laundry
+          artist: edIT
+          bpm: 180
+          charts: {SX: 10}
+        - title: Levels (Skrillex Remix)
+          artist: Avicii
+          bpm: 140
+          charts: {SH: 9, SX: 11, S-Edit: 12}
+          chart-descriptions: {S-Edit: 24ths}
+        - title: Name of oath
+          artist: void feat. コツキミヤ Gt.えば
+          bpm: 174
+          charts: {SH: 1, SX: 15}
+        - title: NFG Talents Mix 001
+          artist: Xilent
+          bpm: 175
+          charts: {SN: 1, SX: 18}
+        - title: Not Gonna Get Us (GOOD VERSION)
+          artist: Rot'N'Creep
+          bpm: 250
+          charts: {SX: 16}
+        - title: Pink Fuzzy Bunnies
+          artist: Wonderboy
+          bpm: 211
+          charts: {SX: 15}
+        - title: Piss
+          artist: Neil Cicierega
+          bpm: 104
+          charts: {SX: 11}
+        - title: Please II
+          artist: Renard vs Kitsune²
+          bpm: 180
+          charts: {SX: 14}
+        - title: Push Every Button
+          artist: Mayhem
+          bpm: 140
+          charts: {SX: 10}
+        - title: Razor (KEYBOARD MODE)
+          artist: Filthy
+          bpm: 250
+          charts: {SX: 17}
+        - title: Snowblind
+          artist: Au5 feat. Tasha Baxter
+          bpm: 138
+          charts: {SX: 11}
+        - title: Speed Disco Vol. 1-5
+          artist: DJ Sharpnel
+          bpm: 210
+          charts: {SH: 20, SX: 21}
+        - title: Summer ~Pitch-Relevant Mix~
+          artist: ☺
+          bpm: 185
+          charts: {SX: 15}
+        - title: Sunset, 2013
+          artist: Swimming With Dolphins
+          bpm: 122
+          charts: {SX: 9}
+        - title: Superluminescence
+          artist: Hiroyuki ODA vs. S2TB Recording
+          bpm: 180
+          charts: {SX: 17}
+        - title: Synthesized 2013
+          artist: Symbion Project
+          bpm: 180
+          charts: {SX: 12}
+        - title: Touch Sound
+          artist: Xilent
+          bpm: 140
+          charts: {SX: 11}
+
+    - title: You're Streaming Forever
+      released: 2015-01-01
+      group: "Stamina Packs"
+      fragment: yourestreaming/forever
+      description:
+        short: >
+            the third installation in the You're Streaming series.
+            ten songs, forty charts.
+            expert charts have 2500 to 5000+ steps.
+            feel the notes.
+        full: >
+            You're Streaming Forever is the third installation of the You're Streaming series,
+            featuring ten more fully-charted, stream-filled songs.
+            All Expert charts have at least 2500 steps; some have over 5000.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit]
+      songs:
+        - title: Block Control VIP
+          artist: Noisia
+          bpm: 175
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16}
+        - title: Bright Star
+          artist: Seduction & Gammer
+          bpm: 170
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Focus Shift
+          artist: Housei Satoh
+          bpm: 140
+          charts: {SN: 2, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: Illusion (Sunrize Mix)
+          artist: Sunrize & DJ Reese feat. Tiffany
+          bpm: 180
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: L.E.D.CyberGalaxyWarfare (Freeform Mix)
+          artist: Qygen
+          bpm: 178
+          charts: {SN: 2, SE: 14, SM: 15, SH: 16, SX: 17}
+        - title: Lights
+          artist: Wolfgun
+          bpm: 175
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16}
+        - title: So High (Martin Roth Remix)
+          artist: Starchaser feat. Lo-Fi Sugar
+          bpm: 134
+          charts: {SN: 2, SE: 11, SM: 12, SH: 13, SX: 14}
+          fragment: So High (Remix)
+        - title: Summertime (2013 mix)
+          artist: Lime
+          bpm: 138
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+        - title: Timberwolf
+          artist: Muzzy
+          bpm: 175
+          charts: {SN: 1, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: "-273.15"
+          artist: LV.4
+          bpm: 170
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16, S-Edit: 17}
+          chart-descriptions: {S-Edit: 24ths}
+
+    - title: Fraxtil's Beast Beats
+      released: 2014-10-01
+      updates:
+        - 2015-04-20:
+            - Added missing arrow in Fang Banger SX
+        - 2016-08-14:
+            - Fixed double step and stretch jump in Plasticity DM
+      group: "Standard Packs"
+      fragment: beastbeats
+      description:
+        short: >
+            the second pack in the "Alliterative Zen" series.
+            20 charts, full singles and doubles, 100% quality.
+        full: >
+            Fraxtil's Beast Beats is the second pack in the "Alliterative Zen" series and the sequel to Arrow Arrangements,
+            featuring 20 more songs with full single and double charts.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit, DE, DM, DH, DX, D-Edit]
+      songs:
+        - title: Axion
+          artist: Reso
+          bpm: 140
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 10, DE: 4, DM: 6, DH: 8, DX: 10}
+        - title: Blue
+          artist: Au5 & Fractal
+          bpm: 175
+          charts: {SN: 1, SE: 3, SM: 7, SH: 11, SX: 13, S-Edit: 14, DE: 4, DM: 7, DH: 11, DX: 14}
+          chart-descriptions: {S-Edit: 24ths}
+        - title: Caelumize
+          artist: void
+          bpm: 175
+          charts: {SN: 1, SE: 5, SM: 8, SH: 11, SX: 13, DE: 5, DM: 8, DH: 11, DX: 13}
+        - title: Drift
+          artist: Metrik
+          bpm: 174
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 13, DE: 5, DM: 7, DH: 10, DX: 13}
+        - title: Fang Banger
+          artist: Bro Safari & Space Laces
+          bpm: 140
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11, DE: 3, DM: 6, DH: 8, DX: 11}
+        - title: Future MUSiC
+          artist: Ym1024 feat. lamie*
+          bpm: 132
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 10, DE: 2, DM: 5, DH: 8, DX: 10}
+        - title: G-SYMPHONiCORE
+          artist: Jugem-T
+          bpm: 213
+          charts: {SN: 1, SE: 5, SM: 9, SH: 11, SX: 15, S-Edit: 16, DE: 5, DM: 8, DH: 11, DX: 15}
+          chart-descriptions: {S-Edit: Rynker Style}
+        - title: Get Lucky
+          artist: Daft Punk
+          bpm: 116
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 9, DE: 3, DM: 6, DH: 8, DX: 9}
+        - title: HeartBeats
+          artist: 獣音ロウ.Revo
+          bpm: 128
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 11, DE: 3, DM: 6, DH: 8, DX: 11, D-Edit: 7}
+          chart-descriptions: {D-Edit: Rou}
+        - title: Jump Ya Body
+          artist: Kill The Noise feat. Mercedes
+          bpm: 140
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 10, DE: 3, DM: 6, DH: 8, DX: 11}
+        - title: コケシネコ・メドレー
+          artist: Ino
+          bpm: 211
+          charts: {SN: 1, SE: 5, SM: 8, SH: 11, SX: 14, S-Edit: 15, DE: 5, DM: 9, DH: 12, DX: 15}
+          chart-descriptions: {S-Edit: 24ths}
+          fragment: Kokeshi Neko Medley
+        - title: Lightspeed (The M Machine Remix)
+          artist: Kill The Noise & Datsik
+          bpm: 108
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11, DE: 2, DM: 5, DH: 8, DX: 11}
+          fragment: Lightspeed (Remix)
+        - title: Mess
+          artist: Anamanaguchi
+          bpm: 112
+          charts: {SN: 1, SE: 3, SM: 7, SH: 9, SX: 11, S-Edit: 12, DE: 3, DM: 6, DH: 9, DX: 11}
+          chart-descriptions: {S-Edit: messy}
+        - title: Monkey Business
+          artist: kors k
+          bpm: 160
+          charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 12, DE: 3, DM: 5, DH: 9, DX: 12}
+        - title: Neurobazaar
+          artist: zircon
+          bpm: 65-130
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 11, DE: 3, DM: 5, DH: 8, DX: 11}
+        - title: Peacock
+          artist: 7 Minutes Dead
+          bpm: 120
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11, DE: 3, DM: 6, DH: 9, DX: 11}
+        - title: Plasticity
+          artist: Minor Rain
+          bpm: 168
+          charts: {SN: 1, SE: 5, SM: 8, SH: 12, SX: 14, DE: 5, DM: 9, DH: 12, DX: 14}
+        - title: Souten (sta's Key-Kai mix)
+          artist: Meine Meinung
+          bpm: 182
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12, DE: 3, DM: 6, DH: 9, DX: 13}
+        - title: The Edge
+          artist: KOAN Sound
+          bpm: 140
+          charts: {SN: 1, SE: 4, SM: 6, SH: 8, SX: 10, DE: 4, DM: 6, DH: 8, DX: 11}
+        - title: Trap
+          artist: Bluescreens
+          bpm: 174
+          charts: {SN: 1, SE: 2, SM: 5, SH: 9, SX: 12, DE: 2, DM: 5, DH: 9, DX: 12}
+
+    - title: You're Streaming Even More
+      released: 2014-01-01
+      group: "Stamina Packs"
+      fragment: yourestreaming/evenmore
+      description:
+        short: >
+            the sequel to You're Streaming Again.
+            ten more fully-charted, stream-filled songs.
+            all expert charts have 2500 to 4000+ steps.
+        full: >
+            You're Streaming Even More is the sequel to You're Streaming Again,
+            featuring ten more fully-charted, stream-filled songs.
+            All Expert charts have at least 2500 steps; some have over 4000.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit]
+      songs:
+        - title: Big Sky (Agnelli & Nelson Remix)
+          artist: John O'Callaghan feat. Audrey Gallagher
+          bpm: 140
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+          fragment: Big Sky (Remix)
+        - title: Blame The Moon (Gammer's Cheesy Muffin Remix)
+          artist: Splash
+          bpm: 172
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+          fragment: Blame The Moon (Remix)
+        - title: division 4
+          artist: Betwixt & Between
+          bpm: 180
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16, S-Edit: 16}
+          chart-descriptions: {S-Edit: Drills}
+        - title: Drone Strike
+          artist: Seva
+          bpm: 174
+          charts: {SN: 2, SE: 11, SM: 13, SH: 14, SX: 15}
+        - title: Flatline
+          artist: TC
+          bpm: 173
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Hyper Highspeed Star
+          artist: Jea
+          bpm: 190
+          charts: {SN: 2, SE: 14, SM: 15, SH: 16, SX: 17}
+        - title: Luminescence
+          artist: Hiroyuki ODA
+          bpm: 132
+          charts: {SN: 2, SE: 11, SM: 12, SH: 13, SX: 14}
+        - title: Shadows (Unicron Remix)
+          artist: Unknown Error
+          bpm: 172
+          charts: {SN: 2, SE: 11, SM: 13, SH: 14, SX: 15}
+          fragment: Shadows (Remix)
+        - title: Time Ticks Away
+          artist: Tasadi & Nhato
+          bpm: 134
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+        - title: We Are The xxxx (bestrafen mix)
+          artist: ikaruga_nex feat. Salita
+          bpm: 173
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16}
+
+    - title: Fraxtil's Arrow Arrangements
+      released: 2013-10-01
+      updates:
+        - 2013-10-01:
+            - Fixed Need Your Love sync drift
+            - Fixed erroneous arrow in The Seconds S-Edit
+        - 2013-10-18:
+            - Fixed scoring error caused by warp gimmick in Girls
+            - Corrected Inner Universe display BPM
+        - 2013-12-09:
+            - Fixed double step in Goin' Under SH
+      group: "Standard Packs"
+      fragment: arrowarrangements
+      description:
+        short: >
+            the first pack in the "Alliterative Zen" series, the spiritual successor to Tsunamix.
+            20 charts, full singles and doubles.
+        full: >
+            Fraxtil's Arrow Arrangements is the first pack in the "Alliterative Zen" series, the spiritual successor to Tsunamix.
+            At just 20 songs, the selection is a bit more modest, but this pack brings full single and double charts for the first time.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit, DE, DM, DH, DX]
+      songs:
+        - title: Bad Ketchup
+          artist: Ladyscraper
+          bpm: 180
+          charts: {SN: 1, SE: 5, SM: 8, SH: 10, SX: 13, DE: 5, DM: 7, DH: 11, DX: 14}
+        - title: Bitch Clap
+          artist: Truxton
+          bpm: 150
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12, DE: 3, DM: 7, DH: 10, DX: 13}
+        - title: Call Me Maybe (Coyote Kisses Remix)
+          artist: Carly Rae Jepsen
+          bpm: 124
+          charts: {SN: 1, SE: 2, SM: 4, SH: 7, SX: 9, DE: 2, DM: 5, DH: 7, DX: 9}
+          fragment: Call Me Maybe (Remix)
+        - title: Dead Hollywood
+          artist: Royalston
+          bpm: 172
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12, DE: 3, DM: 6, DH: 9, DX: 12}
+        - title: Deal With It
+          artist: Kill The Noise
+          bpm: 130
+          charts: {SN: 1, SE: 4, SM: 6, SH: 8, SX: 10, DE: 2, DM: 5, DH: 8, DX: 10}
+        - title: Gangnam Style Kidz Bop
+          artist: Kidz Bop Kids
+          bpm: 132
+          charts: {SN: 1, SE: 12, SM: 4, SH: 7, SX: 9, DE: 12, DM: 4, DH: 7, DX: 9}
+          fragment: Gangnam Style
+        - title: Girls
+          artist: Prodigy
+          bpm: 125
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 10, DE: 3, DM: 6, DH: 8, DX: 10}
+        - title: Goin' Under
+          artist: NegaRen
+          bpm: 210
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 10, DE: 3, DM: 6, DH: 9, DX: 11}
+        - title: Goodbye (Klayton's 2012 Mix)
+          artist: Celldweller
+          bpm: 170
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11, S-Edit: 12, DE: 2, DM: 6, DH: 8, DX: 12}
+          chart-descriptions: {S-Edit: STREAMZ}
+          fragment: Goodbye (2012 Mix)
+        - title: Human Error
+          artist: Human Error
+          bpm: 177
+          charts: {SN: 1, SE: 4, SM: 6, SH: 10, SX: 12, DE: 5, DM: 7, DH: 10, DX: 13}
+        - title: Inner Universe (Extended Mix)
+          artist: Adraen
+          bpm: 194
+          charts: {SN: 2, SE: 5, SM: 8, SH: 11, SX: 14, S-Edit: 14, DE: 6, DM: 8, DH: 11, DX: 14}
+          chart-descriptions: {S-Edit: Intro stream}
+        - title: Love to Rise in the Summer Morning
+          artist: 古代祐三
+          bpm: 143
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 11, DE: 3, DM: 6, DH: 9, DX: 12}
+        - title: Named 'The Moon'
+          artist: PSURG Sound Team
+          bpm: 120
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 10, DE: 3, DM: 6, DH: 8, DX: 10}
+        - title: Need Your Love -SF_Dubstep Mix-
+          artist: Sota Fujimori
+          bpm: 146
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11, DE: 2, DM: 5, DH: 8, DX: 11}
+        - title: No Beginning
+          artist: Netsky
+          bpm: 177
+          charts: {SN: 1, SE: 4, SM: 6, SH: 11, SX: 13, DE: 4, DM: 6, DH: 11, DX: 14}
+        - title: Pain Game
+          artist: Fonik
+          bpm: 140
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 11, S-Edit: 12, DE: 3, DM: 6, DH: 9, DX: 12}
+          chart-descriptions: {S-Edit: Painful}
+        - title: Stamina
+          artist: Spankbass
+          bpm: 100
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 11, DE: 3, DM: 5, DH: 9, DX: 11}
+        - title: Star Gear
+          artist: Junk
+          bpm: 130
+          charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 9, DE: 3, DM: 6, DH: 8, DX: 9}
+        - title: The Seconds
+          artist: Porter Robinson feat. Jano
+          bpm: 128
+          charts: {SN: 1, SE: 2, SM: 5, SH: 7, SX: 10, S-Edit: 11, DE: 1, DM: 4, DH: 7, DX: 10}
+          chart-descriptions: {S-Edit: Sideswitches}
+        - title: Turn Up (The Music)
+          artist: Camo & Krooked
+          bpm: 175
+          charts: {SN: 1, SE: 4, SM: 8, SH: 12, SX: 14, DE: 4, DM: 8, DH: 12, DX: 15}
+
+    - title: Sweet Arrows And Hella Steps Vol. 2
+      released: 2013-04-20
+      group: "The Reject Pile"
+      fragment: sweetarrows/2
+      description:
+        short: >
+            a collection of simfile rejects from may 2012 to april 2013.
+            play at your own risk.
+        full: >
+            A collection of simfile rejects from May 2012 to April 2013.
+            Some of the charts are alright, others are horribly failed experiments.
+            Graphics may be in mixed dimensions.
+            Play at your own risk.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit, DX]
+      hide_banners: true
+      songs:
+        - title: 100% In The Bitch (Downlink Remix)
+          artist: Porter Robinson
+          bpm: 110
+          charts: {SH: 1, SX: 11}
+        - title: Activate remix
+          artist: em0rulz
+          bpm: 180
+          charts: {SX: 8, S-Edit: 8}
+          chart-descriptions: {S-Edit: ACTIV}
+        - title: All Of Your Love (Sanxion7 Remix)
+          artist: Hellogoodbye
+          bpm: 140
+          charts: {SX: 12, S-Edit: 12}
+          chart-descriptions: {S-Edit: Fraxtil}
+        - title: Angels
+          artist: Chavbots From Outta Space
+          bpm: 165
+          charts: {SX: 10, S-Edit: 12}
+          chart-descriptions: {S-Edit: Fraxtil}
+        - title: Art of the Dress Euro Fashion Mix
+          artist: Eurobeat Brony feat. Rarity
+          bpm: 147
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 11, S-Edit: 11}
+          chart-descriptions: {S-Edit: 32nds}
+        - title: Big Boss
+          artist: Doctor P
+          bpm: 140
+          charts: {SE: 8, SM: 11, SH: 14, SX: 16}
+        - title: Blow Out (Electrixx Remix)
+          artist: Felguk
+          bpm: 128
+          charts: {SH: 8, SX: 10}
+        - title: Coalesce
+          artist: On Slot
+          bpm: 69
+          charts: {SX: 11}
+        - title: Crush On You
+          artist: The Jets
+          bpm: 120
+          charts: {SX: 13}
+        - title: Crystalline
+          artist: Björk
+          bpm: 90
+          charts: {SH: 9, SX: 11}
+        - title: Dead Ringer
+          artist: Casey LaLonde
+          bpm: 127
+          charts: {SX: 11}
+        - title: Deadly Overclock (Counterstrike Duo Mix)
+          artist: Current Value
+          bpm: 177
+          charts: {SX: 12}
+        - title: Draw The Line
+          artist: Haywyre
+          bpm: 105
+          charts: {SX: 11}
+        - title: Dumpstream Fraxuality Violation
+          artist: Kommisar
+          bpm: 270
+          charts: {SH: 19, SX: 22}
+        - title: Every Other Way
+          artist: BT
+          bpm: 131
+          charts: {SX: 11}
+        - title: Extratone For 1 Minute
+          artist: Annoying Ringtone
+          bpm: 250
+          charts: {SX: 21}
+        - title: Frozen Pathways VIP
+          artist: Zardonic
+          bpm: 175
+          charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 10}
+        - title: Happy Guy Theme
+          artist: Bram Meindersma + David O'Reilly
+          bpm: 320
+          charts: {SH: 10, SX: 12}
+        - title: I Need Air (JQ Remix)
+          artist: Magnetic Man
+          bpm: 174
+          charts: {SH: 9, SX: 12}
+        - title: Kamikaze
+          artist: m1dy
+          bpm: 200
+          charts: {SE: 19, SX: 16}
+        - title: Late Nights
+          artist: Royalston
+          bpm: 172
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 11}
+        - title: Le Petit Prince
+          artist: cubesato
+          bpm: 100
+          charts: {SX: 9}
+        - title: love hurts. [lonely dance mix]
+          artist: Ryuno
+          bpm: 240
+          charts: {SN: 1, SE: 5, SM: 9, SH: 13, SX: 17, S-Edit: 17}
+          chart-descriptions: {S-Edit: Monst3rjoe}
+        - title: Luv*Lab*Poison 22ate!
+          artist: t+pazolite
+          bpm: 228
+          charts: {SX: 17}
+        - title: Negator
+          artist: SABREMISSILE
+          bpm: 125
+          charts: {SX: 11}
+        - title: Noiseproof
+          artist: sta
+          bpm: 148
+          charts: {SX: 11, DX: 10}
+        - title: Nothing Matters (Noisia Remix)
+          artist: Mark Knight feat. Skin
+          bpm: 172
+          charts: {SX: 13}
+        - title: Predication
+          artist: RushJet1
+          bpm: 225
+          charts: {SH: 10, SX: 12}
+        - title: Pump Up UR NRG
+          artist: t+pazolite
+          bpm: 180
+          charts: {SX: 12}
+        - title: Raver Raver Raver (S3RL Remix)
+          artist: EFM-7
+          bpm: 175
+          charts: {SH: 9, SX: 10}
+        - title: Shamila [cmod recommended]
+          artist: Remo-Con
+          bpm: 142
+          charts: {SX: 13}
+        - title: Sharpest Fraxuality Violation
+          artist: NTW
+          bpm: 270
+          charts: {SX: 20}
+        - title: Sinisterrrrrrrr
+          artist: Renard
+          bpm: 220
+          charts: {SX: 16}
+        - title: SINISTERRRRRRRR (FIAB Remix)
+          artist: Renard
+          bpm: 172
+          charts: {SH: 8, SX: 11}
+        - title: Snake Charmer
+          artist: Neurodriver
+          bpm: 130
+          charts: {SX: 12}
+        - title: Standpipe Valve
+          artist: Zircon
+          bpm: 136
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11}
+        - title: Swagga (Downlink Remix)
+          artist: Excision & Datsik
+          bpm: 140
+          charts: {SX: 10, DX: 10}
+        - title: System Failure
+          artist: Renard
+          bpm: 180
+          charts: {SX: 12, S-Edit: 13}
+          chart-descriptions: {S-Edit: Fraxtil}
+        - title: Technodildo Causality Violation
+          artist: Hoshina Anniversary
+          bpm: 65-130
+          charts: {SX: 17}
+        - title: Testament Of Horsey (PUT IT IN)
+          artist: Kelly Rowland
+          bpm: 127
+          charts: {SX: 14}
+        - title: The Edge
+          artist: KOAN Sound
+          bpm: 98
+          charts: {SX: 11}
+        - title: The Gangnam Paradise
+          artist: Psymonis
+          bpm: 142
+          charts: {SX: 11}
+        - title: The Love
+          artist: Renard
+          bpm: 254
+          charts: {SH: 16, SX: 16}
+        - title: They Will See Me
+          artist: Six of Lasers
+          bpm: 140
+          charts: {SX: 10}
+        - title: to Luv me I *** for u.
+          artist: t+pazolite
+          bpm: 90
+          charts: {SH: 17, SX: 18}
+        - title: toromi hearts 2 Fraxuality Violation
+          artist: goreshit
+          bpm: 219
+          charts: {SX: 17}
+        - title: Tyven
+          artist: Seven Lions
+          bpm: 130
+          charts: {SX: 10}
+        - title: Ultimate High
+          artist: Spinback & Storm
+          bpm: 150-168
+          charts: {SX: 11}
+        - title: Violent City (Petriform Remix)
+          artist: Kill Everyone
+          bpm: 175
+          charts: {SX: 9}
+        - title: Waiting For The Night
+          artist: Furries in a Blender
+          bpm: 180
+          charts: {SX: 11}
+        - title: We Interrupt This Program (Interrupted Vocal Mix)
+          artist: Coburn
+          bpm: 128
+          charts: {SX: 10}
+        - title: Yo Gabba Gucci
+          artist: Trucks Factory
+          bpm: 195
+          charts: {SX: 10}
+
+    - title: You're Streaming Again
+      released: 2012-09-29
+      updates:
+        - 2013-04-20:
+            - Added HD grahpics for every song
+            - Added lower difficulties for every song
+            - Removed all crossovers
+            - Repatterned some charts
+            - Rerated Snowman Expert to 15
+        - 2013-10-20:
+            - Fixed erroneous arrow in Harmonia SH
+        - 2016-08-14:
+            - Fixed corrupted background image for Surrender (Remix)
+      group: "Stamina Packs"
+      fragment: yourestreaming/again
+      description:
+        short: >
+            ten fully-charted, stream-filled songs.
+            all expert charts have at least 2500 steps.
+        full: >
+            You're Streaming Again is a pack of ten fully-charted, stream-filled songs.
+            All Expert charts have at least 2500 steps.
+            Difficulties range from 9s to 18s; song lengths range from 5 to 8 minutes.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit]
+      songs:
+        - title: 12 little fragments of silence
+          artist: Betwixt & Between
+          bpm: 220
+          charts: {SN: 2, SE: 15, SM: 16, SH: 17, SX: 18}
+        - title: Chemicals
+          artist: MRSA
+          bpm: 173
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Eye of the Storm (Part 1 - Escape)
+          artist: Flexstyle
+          bpm: 168
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+          fragment: Eye of the Storm
+        - title: Harmonia
+          artist: Armagelion
+          bpm: 140
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+        - title: In And Out Of Love (Kenny Hayes Blue Sphere Remix)
+          artist: Armin van Buuren feat. Sharon den Adel
+          bpm: 135
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+          fragment: In And Out Of Love (Remix)
+        - title: Programmed Sun
+          artist: kors k
+          bpm: 144
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+        - title: Snowman
+          artist: Brookes Brothers
+          bpm: 174
+          charts: {SN: 2, SE: 12, SM: 13, SH: 14, SX: 15}
+        - title: Surrender (Nhato Remix)
+          artist: Yoji
+          bpm: 133
+          charts: {SN: 2, SE: 10, SM: 11, SH: 12, SX: 13}
+        - title: The Shining Polaris (kors k mix)
+          artist: L.E.D. feat. Sana
+          bpm: 172
+          charts: {SN: 2, SE: 13, SM: 14, SH: 15, SX: 16, S-Edit: 16}
+          chart-descriptions: {S-Edit: 24ths}
+        - title: We Interrupt This Program (Einmusik Remix)
+          artist: Coburn
+          bpm: 128
+          charts: {SN: 2, SE: 9, SM: 10, SH: 11, SX: 12}
+          fragment: We Interrupt This Program (Remix)
+
+
+    - title: Tsunamix III
+      released: 2013-01-01
+      updates:
+        - 2013-01-01:
+            - Fixed double step in The Orionids SX
+        - 2013-01-02:
+            - Fixed SM5 timing data for Cities lower difficulties
+            - Rerated Serrated Sarah SX to 14
+      group: "Standard Packs"
+      fragment: tsunamix/III
+      description:
+        short: >
+            the final installment in the series. 50 fully-charted songs with expert charts ranging from 9s to 15s.
+        full: >
+            Tsunamix III is the final installment in the series.
+            Like the previous releases, it contains 50 songs with Expert charts ranging from 9s to 15s.
+            Unlike the previous releases, each song has all 5 difficulties filled in so novices and experts alike can enjoy the pack.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit]
+      songs:
+        - title: "1.618"
+          artist: BT
+          bpm: 42-84
+          charts: {SN: 1, SE: 2, SM: 4, SH: 7, SX: 10}
+        - title: 2Obscore
+          artist: Detest
+          bpm: 200
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 14}
+        - title: Acid Wolfpack
+          artist: Coyote Kisses
+          bpm: 90-180
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11}
+        - title: Breathe In Time
+          artist: Renard
+          bpm: 85
+          charts: {SN: 1, SE: 2, SM: 4, SH: 6, SX: 9}
+        - title: Chunderchunkmaster
+          artist: Ladyscraper
+          bpm: 250
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 14}
+        - title: Cities
+          artist: Alvin Risk
+          bpm: 87
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 10}
+        - title: Eye of the Storm (Part 1 - Escape)
+          artist: Flexstyle
+          bpm: 168
+          charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 13}
+          fragment: Eye of the Storm
+        - title: Falling Down
+          artist: Sub Focus feat. Kenzie May
+          bpm: 70
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 10}
+        - title: Galactic Love Song
+          artist: Coyote Kisses feat. Elliot Evins
+          bpm: 116
+          charts: {SN: 1, SE: 4, SM: 5, SH: 8, SX: 9}
+        - title: Gangnam Style
+          artist: PSY
+          bpm: 132
+          charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 9}
+        - title: Hate You
+          artist: Toby Fox
+          bpm: 123
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 10}
+        - title: Holynight With Dutchwife (ARM Remix)
+          artist: RoughSketch
+          bpm: 175
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 12}
+          fragment: Holynight With Dutchwife (Remix)
+        - title: Hot Pursuit (Dead Battery Remix)
+          artist: Camo & Krooked
+          bpm: 140
+          charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 11}
+          fragment: Hot Pursuit (Remix)
+        - title: Intensive Care Unit (Forekast's Sunset Remix)
+          artist: Renard
+          bpm: 172
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 10}
+          fragment: Intensive Care Unit (Remix)
+        - title: Isis
+          artist: Seven Lions
+          bpm: 35-140
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 9}
+        - title: Jump
+          artist: Gammer vs. Diplo
+          bpm: 170
+          charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 12}
+        - title: Killin' Your Dudes
+          artist: Adraen
+          bpm: 191
+          charts: {SN: 1, SE: 4, SM: 7, SH: 11, SX: 13}
+        - title: Let It Go
+          artist: 長沼英樹
+          bpm: 135
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 10}
+        - title: Lost On The Moon (Instrumental)
+          artist: Glaze & The Living Tombstone
+          bpm: 163
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 11}
+        - title: Ludicrous Speed
+          artist: 40oz. to Life
+          bpm: 167
+          charts: {SN: 1, SE: 4, SM: 8, SH: 10, SX: 14, S-Edit: 15}
+          chart-descriptions: {S-Edit: Ludicrous}
+        - title: make haste
+          artist: nitro
+          bpm: 128-256
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 12}
+        - title: Men's Milk Booster Rifle
+          artist: RoughSketch
+          bpm: 250
+          charts: {SN: 1, SE: 5, SM: 7, SH: 10, SX: 13}
+        - title: Mixed Berry
+          artist: Klippa
+          bpm: 100
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12}
+        - title: Mosh Pit
+          artist: Jacob Plant feat. Majestic
+          bpm: 110
+          charts: {SN: 1, SE: 2, SM: 6, SH: 9, SX: 12}
+        - title: Pesenka Speedcore
+          artist: Annoying Ringtone
+          bpm: 220
+          charts: {SN: 1, SE: 5, SM: 7, SH: 10, SX: 14}
+        - title: Phantoms In Da House
+          artist: Nhato
+          bpm: 128
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 11}
+        - title: Right On Time
+          artist: Skrillex / 12th Planet / Kill The Noise
+          bpm: 100-140
+          charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 11}
+        - title: Right Osiris
+          artist: Darius
+          bpm: 160-200
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11}
+        - title: Rolling Down The Street (In My Katamari)
+          artist: FearOfDark
+          bpm: 122
+          charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 12, S-Edit: 15}
+          chart-descriptions: {S-Edit: 32nds}
+          fragment: Rolling Down The Street
+        - title: Serotonin Diode
+          artist: BLÆRG
+          bpm: 195
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 13}
+        - title: Serrated Sarah
+          artist: PSURG Sound Team
+          bpm: 240
+          charts: {SN: 1, SE: 3, SM: 7, SH: 11, SX: 14}
+        - title: Sleaze
+          artist: Knife Party feat. Mistajam
+          bpm: 108
+          charts: {SN: 1, SE: 2, SM: 5, SH: 7, SX: 9}
+        - title: Sniffing Stardust on the Dancefloor
+          artist: Kola Kid
+          bpm: 210
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 14}
+        - title: Spirit
+          artist: Hedj & Blokhe4d
+          bpm: 175
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 11}
+        - title: Stay Awake
+          artist: Shroomer
+          bpm: 216
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 12}
+        - title: Stay In Your Room With K.
+          artist: DJ Sharpnel
+          bpm: 210
+          charts: {SN: 1, SE: 4, SM: 7, SH: 9, SX: 13, S-Edit: 15}
+          chart-descriptions: {S-Edit: STREAMZ}
+          fragment: Stay In Your Room With K
+        - title: Strange Comfort
+          artist: Petrified Productions feat. Bit Shifter
+          bpm: 120
+          charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 11}
+        - title: The Advantage
+          artist: Sabrepulse feat. Henry Homesweet
+          bpm: 87-174
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11}
+        - title: The Orionids
+          artist: Darius
+          bpm: 210
+          charts: {SN: 1, SE: 5, SM: 7, SH: 10, SX: 13}
+        - title: Timewarp
+          artist: Sub Focus
+          bpm: 174
+          charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 10}
+        - title: UFD
+          artist: cybermiso
+          bpm: 180
+          charts: {SN: 1, SE: 4, SM: 7, SH: 9, SX: 11}
+          fragment: ufd
+        - title: Ultra Thizz
+          artist: Rustie
+          bpm: 143
+          charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 9}
+        - title: Umbral Ultimatum [cmod this]
+          artist: Toby Fox
+          bpm: 191
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12, S-Edit: 13}
+          chart-descriptions: {S-Edit: 1025}
+          fragment: Umbral Ultimatum
+        - title: Vandalism
+          artist: Porter Robinson feat. Amba Shepherd
+          bpm: 127
+          charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11}
+        - title: VOX Diamond
+          artist: t+pazolite
+          bpm: 200
+          charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12}
+        - title: Vultures
+          artist: Kitcaliber
+          bpm: 140
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 13}
+        - title: West
+          artist: RushJet1
+          bpm: 225
+          charts: {SN: 1, SE: 5, SM: 8, SH: 11, SX: 14}
+        - title: Worldview
+          artist: Petriform
+          bpm: 177
+          charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11, S-Edit: 11}
+          chart-descriptions: {S-Edit: Comp VII}
+        - title: 夜折り折り折り折り折り
+          artist: Lumpy
+          bpm: 185
+          charts: {SN: 1, SE: 4, SM: 7, SH: 10, SX: 13}
+          fragment: yoruorioriorioriori
+        - title: You & I (Rhythmics' Riff Edit)
+          artist: Darren Styles & Gammer
+          bpm: 170
+          charts: {SN: 1, SE: 4, SM: 6, SH: 8, SX: 11}
+          fragment: You & I (Edit)
+
+    - title: Sweet Arrows And Hella Steps Vol. 1
+      released: 2012-04-20
+      group: "The Reject Pile"
+      fragment: sweetarrows/1
+      description:
+        short: >
+            a collection of simfile rejects from 2010 to april 2012.
+            play at your own risk (or don't, ideally).
+        full: >
+            A collection of simfile rejects from 2010 to April 2012.
+            Pretty much all of the charts are terrible.
+            Graphics may be in mixed dimensions.
+            Play at your own risk.
+      difficulties: [SN, SE, SM, SH, SX, S-Edit]
+      hide_banners: true
+      songs:
+        - title: All Fall Down (Club Mix)
+          artist: Camo & Krooked
+          bpm: 140
+          charts: {SX: 11}
+        - title: All Of The Lights
+          artist: Kanye West feat. Various Artists
+          bpm: 142
+          charts: {SE: 12, SX: 11}
+        - title: And So
+          artist: Klippa
+          bpm: 130
+          charts: {SM: 7, SH: 11, SX: 12}
+        - title: Bach Shit Man (why)
+          artist: Futret
+          bpm: 200
+          charts: {SE: 1, SM: 15, SH: 14, SX: 14}
+        - title: Bleeder
+          artist: M.E.G.A.L.O. Concept
+          bpm: 260
+          charts: {SH: 9, SX: 14}
+        - title: BONERING? ☺ BONERING? ☺ BONERING? ☺ BONERING? ☺
+          artist: Futret
+          bpm: 128-140
+          charts: {SE: 17}
+        - title: Choose Me II [LONG VERSION]
+          artist: Xilent
+          bpm: 70-140
+          charts: {SH: 11, SX: 12}
+        - title: Come Again
+          artist: Dodge & Fuski
+          bpm: 140
+          charts: {SX: 10}
+        - title: Contact Explosive
+          artist: 40oz. To Life
+          bpm: 420
+          charts: {SX: 13}
+        - title: Dancing In The Dark (Dubstep Refix)
+          artist: Proxy + Bare Noize + Ollie!
+          bpm: 137
+          charts: {SX: 11}
+        - title: Everyday (Netsky Remix)
+          artist: Rusko
+          bpm: 174
+          charts: {SN: 1, SE: 6, SM: 10, SH: 12, SX: 20}
+        - title: Fucking Die
+          artist: Skrillex
+          bpm: 139
+          charts: {SH: 8, SX: 10}
+        - title: Jingle Bellend
+          artist: Dave!
+          bpm: 250
+          charts: {SX: 16}
+        - title: Kill Everybody (KOAN Sound Remix) [LONG VERSION]
+          artist: Skrillex
+          bpm: 51-102
+          charts: {SH: 10, SX: 12}
+        - title: Levels (Skrillex Remix)
+          artist: Avicii
+          bpm: 140
+          charts: {SX: 11}
+        - title: Mainstreaminization
+          artist: Uppermost
+          bpm: 128
+          charts: {SX: 11}
+        - title: Ming The Merciless
+          artist: Akira Kiteshi
+          bpm: 142
+          charts: {SX: 11}
+        - title: Must Be The Feeling (Delta Heavy Remix)
+          artist: Nero
+          bpm: 110
+          charts: {SX: 11}
+        - title: Muthafucka Can U Buy That
+          artist: Ludacris
+          bpm: 137
+          charts: {SX: 11}
+        - title: Night Calling
+          artist: LV.4
+          bpm: 175
+          charts: {SX: 15}
+        - title: NukleuS
+          artist: Monster X
+          bpm: 130
+          charts: {SH: 8, SX: 10}
+        - title: Onslaught
+          artist: Reso
+          bpm: 140
+          charts: {SX: 11}
+        - title: Ownage
+          artist: iNexus
+          bpm: 140
+          charts: {SX: 11}
+        - title: Paradise
+          artist: Sabrepulse
+          bpm: 140
+          charts: {SX: 10}
+        - title: Set Me On Fire
+          artist: Pendulum
+          bpm: 140
+          charts: {SE: 11, SH: 8, SX: 10}
+        - title: Shut Down Everything (COMPLETE BULLSHIT)
+          artist: The Quick Brown Fox
+          bpm: 440
+          charts: {SM: 13, SH: 14, SX: 16, S-Edit: 23}
+          chart-descriptions: {S-Edit: Fraxtil}
+        - title: Straightjacket
+          artist: DJ Hidden
+          bpm: 174
+          charts: {SX: 13}
+        - title: Terawatts
+          artist: sneakerfox
+          bpm: 110
+          charts: {SH: 12, SX: 12}
+        - title: The Boys
+          artist: Girls' Generation
+          bpm: 115
+          charts: {SX: 9}
+        - title: The Sampling Paradise
+          artist: mamonis
+          bpm: 150
+          charts: {SX: 12, S-Edit: 12}
+          chart-descriptions: {S-Edit: Fraxtil}
+        - title: The Underground
+          artist: Excision & Downlink
+          bpm: 110
+          charts: {SX: 12}
+        - title: Unison (Knife Party Remix)
+          artist: Porter Robinson
+          bpm: 110-128
+          charts: {SH: 9, SX: 11}
+        - title: Walking On Air
+          artist: Kerli
+          bpm: 128
+          charts: {SE: 11, SX: 10}
+
+    - title: Tsunamix II
+      released: 2012-01-01
+      group: "Standard Packs"
+      fragment: tsunamix/II
+      description:
+        short: >
+            it was bad.
+            look for revisions under my individual releases!
+        full: >
+            Tsunamix II was the second installment in the series.
+            Written and released shortly after I began playing on pad, this pack no longer meets my standards of quality.
+
+    - title: Tsunamix I
+      released: 2011-01-01
+      group: "Standard Packs"
+      fragment: tsunamix/I
+      description:
+        short: >
+            it was really bad.
+            look for revisions under my individual releases!
+        full: >
+            Tsunamix I was the first installment in the series.
+            Written and released before I began playing on pad, this pack no longer meets my standards of quality.
+
+individuals:
+    - title: A Princess On My Horse
+      artist: Le Jad
+      released: 2017-01-29
+      length: 2:38
+      bpm: 188
+      charts: {SX: 13}
+      group: "Standard Charts"
+
+    - title: Must Be The Feeling
+      artist: Nero
+      released: 2017-01-22
+      length: 2:09
+      bpm: 128
+      charts: {SX: 9}
+      group: "Tsunamix Revisions"
+      
+    - title: "404"
+      artist: Knife Party
+      released: 2017-01-01
+      length: 2:29
+      bpm: 128
+      charts: {SX: 11, S-Edit: 12}
+      chart-descriptions: {S-Edit: 24ths}
+      group: "Standard Charts"
+      
+    - title: Trident of Sadness
+      artist: 梅干茶漬け
+      released: 2016-09-22
+      length: 3:58
+      bpm: 232
+      charts: {SX: 16}
+      group: "Hard Stuff"
+      
+    - title: Emptiness
+      artist: Slushii
+      released: 2016-06-07
+      length: 2:29
+      bpm: 140
+      charts: {SX: 11}
+      group: "Standard Charts"
+      
+    - title: Burnt Rice
+      artist: Shawn Wasabi & YDG feat. Yung GEMMY
+      released: 2016-01-03
+      length: 2:00
+      bpm: 160
+      charts: {SH: 11, SX: 16}
+      group: "Hard Stuff"
+      
+    - title: Binary
+      artist: Barely Alive
+      released: 2015-11-14
+      length: 2:28
+      bpm: 150
+      charts: {SX: 12}
+      group: "Standard Charts"
+      
+    - title: Stomp
+      artist: Barely Alive
+      released: 2015-11-14
+      length: 1:46
+      bpm: 110
+      charts: {SX: 11}
+      group: "Standard Charts"
+      
+    - title: The Riddler
+      artist: Barely Alive
+      released: 2015-11-14
+      length: 2:24
+      bpm: 100
+      charts: {SX: 10}
+      group: "Standard Charts"
+      
+    - title: Pure Sunlight
+      artist: Mr Fijiwiji, Laura Brehm & AgNO3
+      released: 2014-11-01
+      length: 2:29
+      bpm: 105
+      charts: {SX: 10}
+      group: "Standard Charts"
+      
+    - title: Comprachicos
+      artist: Pendulum
+      released: 2013-09-13
+      length: 2:14
+      bpm: 174
+      charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 12}
+      group: "Tsunamix Revisions"
+      
+    - title: No Limits (Arkitech Remix)
+      artist: Dave Elyzium
+      released: 2013-09-13
+      length: 2:28
+      bpm: 170
+      charts: {SX: 12}
+      group: "Tsunamix Revisions"
+      fragment: No Limits (Remix)
+      
+    - title: Raar
+      artist: Noisia
+      released: 2013-09-13
+      length: 2:25
+      bpm: 135
+      charts: {SX: 11}
+      group: "Tsunamix Revisions"
+      
+pack-groups:
+    - name: "Standard Packs"
+      description: fun, technical charts. start here!
+    - name: "Stamina Packs"
+      description: 16th streams for hardcore players
+    - name: "The Reject Pile"
+      description: jokes, dumpstreams, and bad charts
+
+individual-groups:
+    - name: "Standard Charts"
+      description: these will end up in my standard packs
+    - name: "Tsunamix Revisions"
+      description: rewritten classics from I & II
+    - name: "Hard Stuff"
+      description: stamina & footspeed-oriented files
+
+difficulties:
+    - name: SN
+      description: Single Novice
+    - name: SE
+      description: Single Easy
+    - name: SM
+      description: Single Medium
+    - name: SH
+      description: Single Hard
+    - name: SX
+      description: Single Expert
+    - name: S-Edit
+      description: Single Edit
+    - name: DE
+      description: Double Easy
+    - name: DM
+      description: Double Medium
+    - name: DH
+      description: Double Hard
+    - name: DX
+      description: Double Expert
+    - name: DE
+      description: Double Edit
+
+download-types:
+    - name: StepMania 5
+      description_html: >
+        <p>no offset bias</p>
+        <p>1280x720 backgrounds</p>
+        <p>512x160 banners</p>
+        <p>.SSC and .SM files included</p>
+        <p>ideal for any setup that isn't specifically synced for ITG-oriented packs</p>
+    - name: In The Groove
+      description_html: >
+        <p>+9ms offset bias</p>
+        <p>960×720 backgrounds</p>
+        <p>418×164 banners</p>
+        <p>.SM file included</p>
+        <p>ideal for ITG dedicab owners & setups synced for ITG-oriented packs</p>
+    - name: ITG r21
+      description_html: >
+        <p>+9ms offset bias</p>
+        <p>no backgrounds or banners</p>
+        <p>.SM file included</p>
+        <p>audio compressed to <5 MB as needed</p>
+        <p>ideal for ITG r21 USB functionality</p>

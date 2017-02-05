@@ -1,0 +1,26 @@
+                    {% assign simfile = include.item %}
+                    {% if simfile.fragment %}
+                    {% assign fragment = simfile.fragment %}
+                    {% else %}
+                    {% assign fragment = simfile.title %}
+                    {% endif %}
+                    {% assign data_path = site.baseurl | append: "data/individual/" | append: fragment %}
+                    {% assign sm5_download = data_path | append: " [SM5].zip" %}
+                    {% assign itg_download = data_path | append: " [ITG].zip" %}
+                    {% assign r21_download = data_path | append: " [r21].zip" %}
+                    <div class="banner">
+                        <a href="{{ sm5_download }}"><img src="{{ data_path }}/bn.png" alt="{{ simfile.title }}" /></a>
+                    </div>
+                    <div class="description">
+                        <h4><a href="{{ sm5_download }}">{{ simfile.artist }} - {{ simfile.title }}</a></h4>
+                        <p>
+                        {% for chart in simfile.charts %}
+                            <span class="chart" {% if simfile.chart-descriptions[chart[0]] %}title="{{ simfile.chart-descriptions[chart[0]] }}"{% endif %}>
+                            {{ chart[0] }} {{ chart[1] }}{% if forloop.last == false %}, {% endif %}
+                            </span>
+                        {% endfor %}
+                        &bull;
+                        {{ simfile.bpm }} BPM
+                        </p>
+                        <p>alt downloads: <a href="{{ itg_download }}">ITG</a>, <a href="{{ r21_download }}">r21</a></p>
+                    </div>

@@ -1,0 +1,8 @@
+name: fraxtil's simfiles
+author: Fraxtil
+
+destination: ../../root/simfiles/
+keep_files: [data]
+
+url: https://fra.xtil.net/simfiles/
+baseurl: /simfiles/

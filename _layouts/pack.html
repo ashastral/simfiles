@@ -1,0 +1,92 @@
+{% assign pack = site.data.simfiles.packs | where: "title", page.title | first %}
+{% assign data_path = site.baseurl | append: "data/" | append: pack.fragment %}
+<!DOCTYPE html>
+
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1, minimum-scale=1, width=device-width" />
+
+<title>{{ page.title }} - {{ site.name }}</title>
+
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="/assets/three.min.js"></script>
+<script src="/assets/poisson-disk.js"></script>
+<script src="/assets/xbackground.dev.js"></script>
+
+<link href="/fonts/Museo.css" rel="stylesheet" type="text/css">
+<link href="{{ site.baseurl }}style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+
+<canvas id="logos"></canvas>
+
+<div id="pack">
+    <div id="header">
+        <div class="banner">
+            <img src="{{ data_path }}/pack/_banner.png" alt="{{ pack.title }}" />
+        </div>
+        <h1>{{ pack.title }}</h1>
+        <p>{{ pack.description.full }}</p>
+        <p> Download for
+            <strong><a href="{{ data_path }}/{{ pack.title }} [SM5].zip">StepMania 5</a></strong>, 
+            <strong><a href="{{ data_path }}/{{ pack.title }} [ITG].zip">In The Groove</a></strong>, or
+            <strong><a href="{{ data_path }}/{{ pack.title }} [r21].zip">ITG r21</a></strong>.
+            <a href="{{ site.baseurl }}download-types" title="What's the difference?">(?)</a></p>
+    </div>
+    
+    <ul id="songs">
+        <li class="header">
+            {% unless pack.hide_banners %}
+            <div class="banner"></div>
+            {% endunless %}
+            <div class="metadata"></div>
+            <div class="charts">
+                {% for pack_difficulty in pack.difficulties %}
+                {% assign difficulty = site.data.simfiles.difficulties | where: 'name', pack_difficulty | first %}
+                <div class="difficulty {{ difficulty.name }} has-description">
+                    <span title="{{ difficulty.description }}">{{ difficulty.name }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </li>
+        {% for song in pack.songs %}
+        {% if song.fragment %}
+        {% assign fragment = song.fragment %}
+        {% else %}
+        {% assign fragment = song.title %}
+        {% endif %}
+        <li class="song">
+            {% unless pack.hide_banners %}
+            <div class="banner">
+                <img src="{{ data_path }}/pack/{{ fragment }}/bn.png" />
+            </div>
+            {% endunless %}
+            <div class="metadata">
+                <h2>{{ song.artist }} - {{ song.title }}</h2>
+                <p class="bpm">{{ song.bpm }} BPM</p>
+            </div>
+            <div class="charts">
+                {% for difficulty in pack.difficulties %}
+                <div class="difficulty {{ difficulty }}
+                             {% unless song.charts[difficulty] %} empty {% endunless %}
+                             {% if song.chart-descriptions[difficulty] %} has-description {% endif %}">
+                    <span title="{{ song.chart-descriptions[difficulty] }}">
+                        {{ song.charts[difficulty] }}
+                    </span>
+                </div>
+                {% endfor %}
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<script type="text/javascript">
+Xbackground.init({
+    color: 0xe8e8e8,
+    logo: [
+        [[0,50], [50,0], [100,50], [82,68], [64,50], [64,100], [36,100], [36,50], [18,68], [0,50]]
+    ],
+    rotate: [0, Math.PI/2, Math.PI, 3*Math.PI/2],
+});
+</script>
