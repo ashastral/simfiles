@@ -1312,12 +1312,12 @@ packs:
             Written and released before I began playing on pad, this pack no longer meets my standards of quality.
 
 individuals:
-    - title: A Princess On My Horse
-      artist: Le Jad
-      released: 2017-01-29
-      length: 2:38
-      bpm: 188
-      charts: {SX: 13}
+    - title: Rough and Rugged
+      artist: Barely Alive
+      released: 2017-02-05
+      length: 2:17
+      bpm: 128
+      charts: {SX: 11}
       group: "Standard Charts"
 
     - title: Must Be The Feeling
