@@ -1,4 +1,4 @@
-{% assign pack = site.data.simfiles.packs | where: "title", page.title | first %}
+{% assign pack = site.data.packs | where: "title", page.title | first %}
 {% assign data_path = site.baseurl | append: "data/" | append: pack.fragment %}
 <!DOCTYPE html>
 
@@ -42,7 +42,7 @@
             <div class="metadata"></div>
             <div class="charts">
                 {% for pack_difficulty in pack.difficulties %}
-                {% assign difficulty = site.data.simfiles.difficulties | where: 'name', pack_difficulty | first %}
+                {% assign difficulty = site.data.difficulties | where: 'name', pack_difficulty | first %}
                 <div class="difficulty {{ difficulty.name }} has-description">
                     <span title="{{ difficulty.description }}">{{ difficulty.name }}</span>
                 </div>

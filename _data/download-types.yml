@@ -1,0 +1,21 @@
+- name: StepMania 5
+  description_html: >
+    <p>no offset bias</p>
+    <p>1280x720 backgrounds</p>
+    <p>512x160 banners</p>
+    <p>.SSC and .SM files included</p>
+    <p>ideal for any setup that isn't specifically synced for ITG-oriented packs</p>
+- name: In The Groove
+  description_html: >
+    <p>+9ms offset bias</p>
+    <p>960×720 backgrounds</p>
+    <p>418×164 banners</p>
+    <p>.SM file included</p>
+    <p>ideal for ITG dedicab owners & setups synced for ITG-oriented packs</p>
+- name: ITG r21
+  description_html: >
+    <p>+9ms offset bias</p>
+    <p>no backgrounds or banners</p>
+    <p>.SM file included</p>
+    <p>audio compressed to <5 MB as needed</p>
+    <p>ideal for ITG r21 USB functionality</p>

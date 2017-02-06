@@ -24,7 +24,7 @@
         {{ content }}
     </div>
     <ul id="groups">
-        {% for group in site.data.simfiles[page.groups] %}
+        {% for group in site.data[page.groups] %}
         <li class="group">
             <div class="description">
                 <h2>{{ group.name }}</h2>
@@ -36,7 +36,7 @@
                 {% endif %}
             </div>
             <ul class="items">
-                {% assign filtered_items = site.data.simfiles[page.items] | where:'group',group.name %}
+                {% assign filtered_items = site.data[page.items] | where:'group',group.name %}
                 {% for item in filtered_items %}
                 <li class="item">
                     {% include {{ page.item_layout }} item=item %}

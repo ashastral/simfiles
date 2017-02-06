@@ -1,0 +1,22 @@
+- name: SN
+  description: Single Novice
+- name: SE
+  description: Single Easy
+- name: SM
+  description: Single Medium
+- name: SH
+  description: Single Hard
+- name: SX
+  description: Single Expert
+- name: S-Edit
+  description: Single Edit
+- name: DE
+  description: Double Easy
+- name: DM
+  description: Double Medium
+- name: DH
+  description: Double Hard
+- name: DX
+  description: Double Expert
+- name: DE
+  description: Double Edit
