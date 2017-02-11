@@ -26,6 +26,9 @@
 - title: Trident of Sadness
   artist: 梅干茶漬け
   released: 2016-09-22
+  updates:
+    - 2017-02-11:
+        - fixed quiet audio file
   length: 3:58
   bpm: 232
   charts: {SX: 16}
@@ -74,6 +77,10 @@
 - title: Pure Sunlight
   artist: Mr Fijiwiji, Laura Brehm & AgNO3
   released: 2014-11-01
+  updates:
+    - 2015-12-24:
+        - rewrote with better rhythms & different use of footswitches
+        - rerated from 11 to 10
   length: 2:29
   bpm: 105
   charts: {SX: 10}
