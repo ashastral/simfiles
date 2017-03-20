@@ -1,3 +1,27 @@
+- title: Haunted
+  artist: Slips & Slurs
+  released: 2017-03-19
+  length: 2:10
+  bpm: 155
+  charts: {SX: 11}
+  group: "Standard Charts"
+
+- title: Heavy Meddle
+  artist: Herobust
+  released: 2017-02-26
+  length: 2:14
+  bpm: 150
+  charts: {SH: 11, SX: 14}
+  group: "Standard Charts"
+
+- title: Okay
+  artist: Tokyo Machine
+  released: 2017-02-19
+  length: 2:23
+  bpm: 128
+  charts: {SX: 11}
+  group: "Standard Charts"
+
 - title: Wikkid M.C. (2009 Exclusive)
   artist: Sharkey & CLSM
   released: 2017-02-12
