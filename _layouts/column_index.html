@@ -38,9 +38,7 @@
             <ul class="items">
                 {% assign filtered_items = site.data[page.items] | where:'group',group.name %}
                 {% for item in filtered_items %}
-                <li class="item">
-                    {% include {{ page.item_layout }} item=item %}
-                </li>
+                {% include {{ page.item_layout }} item=item %}
                 {% endfor %}
             </ul>
         </li>
