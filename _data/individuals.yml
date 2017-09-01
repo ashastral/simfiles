@@ -1,3 +1,44 @@
+- title: Heard Right
+  artist: J-Trick x Tom Budin
+  released: 2017-08-31
+  length: 2:05
+  bpm: 128
+  charts: {SX: 12}
+  group: "Standard Charts"
+
+- title: Weapon
+  subtitle: (feat. Baum)
+  artist: Grant
+  released: 2017-08-31
+  length: 2:27
+  bpm: 140
+  charts: {SX: 11}
+  group: "Standard Charts"
+
+- title: Crazy
+  artist: Tokyo Machine
+  released: 2017-08-31
+  length: 2:24
+  bpm: 128
+  charts: {SX: 11}
+  group: "Standard Charts"
+
+- title: Run
+  artist: Xilent
+  released: 2017-08-31
+  length: 2:22
+  bpm: 150
+  charts: {SX: 12}
+  group: "Standard Charts"
+
+- title: Beautiful Alice
+  artist: Mergel da Gamaliel
+  released: 2017-08-31
+  length: 11:54
+  bpm: 150-180
+  charts: {SX: 16}
+  group: "Hard Stuff"
+
 - title: Vanishing Point
   artist: Fraxtil
   released: 2017-07-14
