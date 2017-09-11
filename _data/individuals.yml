@@ -1,3 +1,12 @@
+- title: Rapture (feat. MC Mota)
+  fragment: Rapture
+  artist: KUURO
+  released: 2017-09-10
+  length: 2:24
+  bpm: 150
+  charts: {SX: 13}
+  group: "Standard Charts"
+
 - title: Heard Right
   artist: J-Trick x Tom Budin
   released: 2017-08-31
@@ -6,8 +15,8 @@
   charts: {SX: 12}
   group: "Standard Charts"
 
-- title: Weapon
-  subtitle: (feat. Baum)
+- title: Weapon (feat. Baum)
+  fragment: Weapon
   artist: Grant
   released: 2017-08-31
   length: 2:27
