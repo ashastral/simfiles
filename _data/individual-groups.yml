@@ -1,6 +1,6 @@
 - name: "Standard Charts"
   description: these will end up in my standard packs
-- name: "Barely Playable"
-  description: previews for the forthcoming Barely Alive pack
 - name: "Hard Stuff"
   description: stamina & footspeed-oriented files
+- name: "Tsunamix Revisions"
+  description: revised copies of simfiles from Tsunamix I & II

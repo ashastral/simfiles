@@ -1,3 +1,193 @@
+- title: Barely Playable
+  released: 2018-01-01
+  group: "Standard Packs"
+  fragment: barelyplayable
+  description:
+    short: >
+        10 song technical pack, expert-only.
+        skills tested include bracketing, footswitches, crossovers, and more.
+    full: >
+        Barely Playable is a technical / experimental pack featuring 10 songs from the album We Are Barely Alive and its corresponding remix album.
+        Skills tested include bracketing, footswitches, crossovers, streams, stops, stomps, and varying degrees of footspeed.
+        <span class="note">
+            Relevant skillsets are listed in each chart's description field (BK = Bracketing, FS = Footswitches, XO = Crossovers, STR = Streams).
+            <br />
+            On this page, you can hover over the difficulty meters to view each chart's skillset.
+        </span>
+  difficulties: [SH, SX]
+  songs:
+    - title: Binary
+      artist: Barely Alive
+      bpm: 150
+      charts: {SX: 12}
+      chart-descriptions: {SX: "Bracketing + Footswitches"}
+    - title: Binary (Barely Alive & Virtual Riot Remix)
+      artist: Barely Alive
+      bpm: 150
+      charts: {SX: 13-}
+      fragment: Binary (Remix)
+      chart-descriptions: {SX: "Bracketing + Footswitches + 32nds"}
+    - title: Poison Dart (BUSTED by Herobust)
+      artist: Barely Alive
+      bpm: 150
+      charts: {SX: 13}
+      chart-descriptions: {SX: "Crossovers + 24ths"}
+    - title: Rough and Rugged
+      artist: Barely Alive
+      bpm: 128
+      charts: {SX: 11+}
+      chart-descriptions: {SX: "Bracketing + Crossovers + Streams + 32nds"}
+    - title: Rough and Rugged (Far Too Loud Remix)
+      artist: Barely Alive
+      bpm: 100
+      charts: {SH: 13+, SX: 17}
+      fragment: Rough and Rugged (Remix)
+      chart-descriptions: {SH: "40ths", SX: "48ths"}
+    - title: Scoop
+      artist: Barely Alive
+      bpm: 150
+      charts: {SX: 11-}
+      chart-descriptions: {SX: "Footswitches + Stops + 20ths"}
+    - title: Stomp
+      artist: Barely Alive
+      bpm: 110
+      charts: {SH: 10-, SX: 11}
+      chart-descriptions: {SH: "Stomps", SX: "Stomps + 32nds"}
+    - title: The Riddler
+      artist: Barely Alive
+      bpm: 100
+      charts: {SX: 10+}
+      chart-descriptions: {SX: "Crossovers + 48ths"}
+    - title: Windpipe
+      artist: Barely Alive
+      bpm: 150
+      charts: {SX: 11+}
+      chart-descriptions: {SX: "32nds"}
+    - title: Zombie Hunter (VIP Mix)
+      artist: Barely Alive
+      bpm: 128
+      charts: {SX: 12+}
+      chart-descriptions: {SX: "Bracketing + Footswitches + Crossovers + Streams"}
+
+- title: Fraxtil's Monstercat Minipack
+  released: 2018-01-01
+  group: "Standard Packs"
+  fragment: mc/minipack
+  description:
+    short: >
+        10 songs from Monstercat with full singles.
+    full: >
+        Fraxtil's Monstercat Minipack is a pack of 10 songs released on the label Monstercat.
+        Full single difficulties are included for players of all skill levels to enjoy.
+  difficulties: [SN, SE, SM, SH, SX]
+  songs:
+    - title: Crazy
+      artist: Tokyo Machine
+      bpm: 128
+      charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 11}
+    - title: Divided
+      artist: Slips & Slurs
+      bpm: 100
+      charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 12}
+    - title: Emptiness
+      artist: Slushii
+      bpm: 140
+      charts: {SN: 2, SE: 4, SM: 6, SH: 9, SX: 11}
+    - title: Haunted
+      artist: Slips & Slurs
+      bpm: 155
+      charts: {SN: 1, SE: 3, SM: 6, SH: 8, SX: 11}
+    - title: Navigator
+      artist: Dirtyphonics & Sullivan King
+      bpm: 150
+      charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12-}
+    - title: Okay
+      artist: Tokyo Machine
+      bpm: 128
+      charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11}
+    - title: Power Fracture
+      artist: Tut Tut Child
+      bpm: 140
+      charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12-}
+    - title: Pure Sunlight
+      artist: Mr Fijiwiji, Laura Brehm & AgNO3
+      bpm: 105
+      charts: {SN: 1, SE: 3, SM: 4, SH: 8, SX: 10+}
+    - title: Rapture (feat. MC Mota)
+      artist: KUURO
+      bpm: 150
+      charts: {SN: 1, SE: 4, SM: 8, SH: 11+, SX: 13+}
+      fragment: Rapture
+    - title: Weapon (feat. Baum)
+      artist: Grant
+      bpm: 140
+      charts: {SN: 1, SE: 2, SM: 5, SH: 8, SX: 11-}
+      fragment: Weapon
+
+- title: Monstercat Sims
+  released: 2018-01-01
+  group: "Standard Packs"
+  fragment: mc/sims
+  description:
+    short: >
+        a collaborative project from 2015, featuring 10 songs with full singles written by 7 stepartists.
+    full: >
+        Monstercat Sims was a collaborative stepfile project ran by Fraxtil in 2015.
+        Special thanks to contributors Loak, Kingdaro, Prolix, Zaia, Valex, and Feraligatr.
+  difficulties: [SN, SE, SM, SH, SX, S-Edit, DX]
+  songs:
+    - title: New Game
+      artist: Nitro Fun
+      bpm: 128
+      charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 12, S-Edit: 13}
+      chart-descriptions: {S-Edit: "32nd runs"}
+      fragment: "[01] Fraxtil - New Game"
+    - title: Boundless
+      artist: Aero Chord
+      bpm: 170
+      charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 10}
+      fragment: "[02] Loak - Boundless"
+    - title: Turn Around
+      artist: Grabbitz
+      bpm: 146
+      charts: {SN: 2, SE: 5, SM: 8, SH: 10, SX: 12}
+      fragment: "[03] Kingdaro - Turn Around"
+    - title: Pinball (The McMash Clan Remix)
+      artist: Astronaut & Eyes
+      bpm: 128
+      charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 11, DX: 11}
+      fragment: "[04] Prolix - Pinball (The McMash Clan Remix)"
+    - title: Skybreaker
+      artist: Razihel
+      bpm: 140
+      charts: {SN: 3, SE: 7, SM: 9, SH: 10, SX: 11}
+      fragment: "[05] Zaia - Skybreaker"
+    - title: Snowblind
+      artist: Au5 ft. Tasha Baxter
+      bpm: 138
+      charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 10, DX: 10}
+      fragment: "[06] Valex - Snowblind"
+    - title: Drop That Child
+      artist: Droptek & Tut Tut Child
+      bpm: 140
+      charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 11}
+      fragment: "[07] Fraxtil - Drop That Child"
+    - title: Galactic Voyage
+      artist: PIXL
+      bpm: 125
+      charts: {SN: 1, SE: 3, SM: 4, SH: 7, SX: 9}
+      fragment: "[08] Feraligatr - Galactic Voyage"
+    - title: Cheat Codes
+      artist: Nitro Fun
+      bpm: 128
+      charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 10}
+      fragment: "[09] Loak - Cheat Codes"
+    - title: Insight
+      artist: Haywyre
+      bpm: 140
+      charts: {SN: 1, SE: 2, SM: 5, SH: 9, SX: 12}
+      fragment: "[10] Kingdaro - Insight"
+
 - title: I Have No Feet and I Must Stream
   released: 2016-01-01
   group: "Stamina Packs"
