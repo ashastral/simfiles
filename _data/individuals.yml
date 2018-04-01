@@ -1,3 +1,35 @@
+- title: The X
+  artist: Xilent
+  released: 2018-03-31
+  length: 2:24
+  bpm: 150
+  charts: {SX: 12}
+  group: "Standard Charts"
+
+- title: One Bite
+  artist: かめりあ
+  released: 2018-03-31
+  length: 2:19
+  bpm: 150
+  charts: {SX: 13}
+  group: "Standard Charts"
+
+- title: Chemdah
+  artist: Feryquitous
+  released: 2018-03-31
+  length: 1:52
+  bpm: 105
+  charts: {SX: 12}
+  group: "Standard Charts"
+
+- title: Back To The Future
+  artist: Graphyt
+  released: 2018-03-31
+  length: 2:12
+  bpm: 150
+  charts: {SX: 12}
+  group: "Standard Charts"
+
 - title: No Limits (Arkitech Remix)
   fragment: "No Limits (Remix) [15]"
   artist: Dave Elyzium
