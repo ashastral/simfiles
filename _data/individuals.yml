@@ -1,39 +1,7 @@
-- title: I
-  artist: 黒魔
-  released: 2018-08-09
-  length: 2:00
-  bpm: 225
-  charts: {SH: 11, SX: 14}
-  group: "Standard Charts"
-
 - title: The X
   artist: Xilent
   released: 2018-03-31
   length: 2:24
-  bpm: 150
-  charts: {SX: 12}
-  group: "Standard Charts"
-
-- title: One Bite
-  artist: かめりあ
-  released: 2018-03-31
-  length: 2:19
-  bpm: 150
-  charts: {SX: 13}
-  group: "Standard Charts"
-
-- title: Chemdah
-  artist: Feryquitous
-  released: 2018-03-31
-  length: 1:52
-  bpm: 105
-  charts: {SX: 12}
-  group: "Standard Charts"
-
-- title: Back To The Future
-  artist: Graphyt
-  released: 2018-03-31
-  length: 2:12
   bpm: 150
   charts: {SX: 12}
   group: "Standard Charts"
@@ -46,38 +14,6 @@
   bpm: 170
   charts: {SX: 15}
   group: "Hard Stuff"
-
-- title: Buttonmasher
-  artist: Virtual Riot
-  released: 2017-09-24
-  length: 2:20
-  bpm: 128
-  charts: {SX: 10}
-  group: "Standard Charts"
-
-- title: You're Beautiful
-  artist: lapix
-  released: 2017-09-17
-  length: 2:27
-  bpm: 150
-  charts: {SX: 12}
-  group: "Standard Charts"
-
-- title: Heard Right
-  artist: J-Trick x Tom Budin
-  released: 2017-08-31
-  length: 2:05
-  bpm: 128
-  charts: {SX: 12}
-  group: "Standard Charts"
-
-- title: Run
-  artist: Xilent
-  released: 2017-08-31
-  length: 2:22
-  bpm: 150
-  charts: {SX: 12}
-  group: "Standard Charts"
 
 - title: Beautiful Alice
   artist: Mergel da Gamaliel
@@ -118,15 +54,6 @@
   bpm: 128
   charts: {SX: 9}
   group: "Tsunamix Revisions"
-  
-- title: "404"
-  artist: Knife Party
-  released: 2017-01-01
-  length: 2:29
-  bpm: 128
-  charts: {SX: 11, S-Edit: 12}
-  chart-descriptions: {S-Edit: 24ths}
-  group: "Standard Charts"
   
 - title: Trident of Sadness
   artist: 梅干茶漬け

@@ -1,3 +1,100 @@
+- title: Fraxtil's Cute Charts
+  released: 2018-12-25
+  group: "Standard Packs"
+  fragment: cutecharts
+  description:
+    short: >
+        the "Alliterative Zen" trilogy's conclusion.
+        20 technical files with full singles.
+    full: >
+        Fraxtil's Cute Charts is the final pack in the "Alliterative Zen" trilogy, featuring 20 songs with full single charts.
+        The Expert charts are highly technical, but lower difficulties provide a welcoming experience for players of all skill levels.
+  difficulties: [SN, SE, SM, SH, SX, S-Edit, DX]
+  songs:
+    - title: 404
+      artist: Knife Party
+      bpm: 128
+      charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 11, S-Edit: 12}
+      chart-descriptions: {S-Edit: 24ths}
+    - title: 8bit Adventurer
+      artist: Lime
+      bpm: 197
+      charts: {SN: 2, SE: 5, SM: 9, SH: 12, SX: 15}
+    - title: A Princess On My Horse
+      artist: Le Jad
+      bpm: 188
+      charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 13}
+    - title: Aiwa
+      artist: RIOT
+      bpm: 150
+      charts: {SN: 1, SE: 3, SM: 6, SH: 10, SX: 13}
+    - title: Automagic
+      artist: Televisor
+      bpm: 125
+      charts: {SN: 1, SE: 3, SM: 5, SH: 7, SX: 9, DX: 10}
+    - title: Back To The Future
+      artist: Graphyt
+      bpm: 150
+      charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12}
+    - title: Buttonmasher
+      artist: Virtual Riot
+      bpm: 128
+      charts: {SN: 1, SE: 2, SM: 4, SH: 7, SX: 10}
+    - title: Chemdah
+      artist: Feryquitous
+      bpm: 105
+      charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12}
+    - title: Clear Tamei
+      artist: Iglooghost
+      bpm: 165
+      charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 12}
+    - title: Desperation (Battle Against a True Hero)
+      fragment: Desperation
+      artist: RichaadEB
+      bpm: 150
+      charts: {SN: 1, SE: 3, SM: 5, SH: 8, SX: 13}
+    - title: Doom Terror Corps
+      artist: Phuture Doom
+      bpm: 175
+      charts: {SN: 2, SE: 3, SM: 5, SH: 8, SX: 12}
+    - title: Field of Hopes and Dreams
+      artist: Toby Fox
+      bpm: 125
+      charts: {SN: 1, SE: 2, SM: 5, SH: 7, SX: 9}
+    - title: Heard Right
+      artist: J-Trick & Tom Budin
+      bpm: 128
+      charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 11}
+    - title: I
+      artist: 黒魔
+      bpm: 225
+      charts: {SN: 2, SE: 4, SM: 7, SH: 11, SX: 14}
+    - title: Neutrino
+      artist: HuΣer
+      bpm: 150
+      charts: {SN: 1, SE: 5, SM: 8, SH: 12, SX: 14}
+    - title: One Bite
+      artist: かめりあ
+      bpm: 150
+      charts: {SN: 2, SE: 4, SM: 7, SH: 9, SX: 13}
+    - title: Run
+      artist: Xilent
+      bpm: 150
+      charts: {SN: 1, SE: 3, SM: 6, SH: 9, SX: 11}
+    - title: Superstar
+      artist: Knife Party
+      bpm: 128
+      charts: {SN: 1, SE: 3, SM: 5, SH: 9, SX: 10}
+    - title: Uprooted, marooned.
+      fragment: Uprooted, marooned
+      artist: Memoryheads
+      bpm: 200
+      charts: {SN: 1, SE: 5, SM: 7, SH: 11, SX: 14}
+    - title: You're Beautiful
+      artist: lapix
+      bpm: 150
+      charts: {SN: 1, SE: 4, SM: 6, SH: 9, SX: 12}
+
 - title: Barely Playable
   released: 2018-01-01
   group: "Standard Packs"
